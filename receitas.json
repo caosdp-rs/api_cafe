@@ -1,0 +1,94 @@
+{
+    "receitas": [
+      {
+        "nome": "Mocaccino",
+        "ingredientes": [
+          {
+            "nome": "Café expresso",
+            "quantidade": "1 shot"
+          },
+          {
+            "nome": "Leite",
+            "quantidade": "150 ml"
+          },
+          {
+            "nome": "Espuma de leite",
+            "quantidade": "50 ml"
+          },
+          {
+            "nome": "Chocolate em pó",
+            "quantidade": "1 colher de sopa"
+          },
+          {
+            "nome": "Calda de chocolate",
+            "quantidade": "1 colher de chá"
+          }
+        ]
+      },
+      {
+        "nome": "Espresso",
+        "ingredientes": [
+          {
+            "nome": "Café expresso",
+            "quantidade": "1 shot"
+          }
+        ]
+      },
+      {
+        "nome": "Americano",
+        "ingredientes": [
+          {
+            "nome": "Café expresso",
+            "quantidade": "1 shot"
+          },
+          {
+            "nome": "Água quente",
+            "quantidade": "150 ml"
+          }
+        ]
+      },
+      {
+        "nome": "Café com Leite",
+        "ingredientes": [
+          {
+            "nome": "Café expresso",
+            "quantidade": "1 shot"
+          },
+          {
+            "nome": "Leite",
+            "quantidade": "150 ml"
+          }
+        ]
+      },
+      {
+        "nome": "Cappuccino",
+        "ingredientes": [
+          {
+            "nome": "Café solúvel",
+            "quantidade": "50 g"
+          },
+          {
+            "nome": "Leite em pó",
+            "quantidade": "400 g"
+          },
+          {
+            "nome": "Açúcar",
+            "quantidade": "230 g"
+          },
+          {
+            "nome": "Chocolate em pó",
+            "quantidade": "5 colheres (sopa)"
+          },
+          {
+            "nome": "Canela em pó",
+            "quantidade": "1 colher (chá)"
+          },
+          {
+            "nome": "Bicarbonato de sódio",
+            "quantidade": "1 colher (sopa) (opcional)"
+          }
+        ]
+      }
+    ]
+  }
+  
